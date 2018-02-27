@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c61173d4-9737-47ba-ac40-7830454000d3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c61173d4-9737-47ba-ac40-7830454000d3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Adapter.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Adapter.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adapter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="287">
+              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdapterV2.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AdapterV2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="37" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -76,6 +84,7 @@
         <option value="$PROJECT_DIR$/Pipeline/Pipeline.php" />
         <option value="$PROJECT_DIR$/FluentInterface.php" />
         <option value="$PROJECT_DIR$/Adapter.php" />
+        <option value="$PROJECT_DIR$/AdapterV2.php" />
       </list>
     </option>
   </component>
@@ -166,12 +175,12 @@
       <workItem from="1519716823410" duration="825000" />
       <workItem from="1519717711282" duration="6008000" />
       <workItem from="1519740336216" duration="17000" />
-      <workItem from="1519740662773" duration="1621000" />
+      <workItem from="1519740662773" duration="3277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62174000" />
+    <option name="totallyTimeSpent" value="63830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="928" height="1056" extended-state="4" />
@@ -426,8 +435,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Adapter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="287">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdapterV2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="37" selection-end-column="4" />
           <folding />
         </state>
       </provider>
