@@ -1,0 +1,9 @@
+{
+  "name": "Patterns",
+  "description": "Patterns and PHPUnit",
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "phpunit/phpunit" : "^6.5"
+  }
+}
